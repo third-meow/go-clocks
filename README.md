@@ -11,7 +11,7 @@ Clock prints unixtime, because it only ever goes up
 Clock prints number of seconds left between your age and the average life expectancy (a little dark I know)
 This clock's numbers only go down
 
-### bars (in development)
+### bars 
 
 Clock prints hours, minutes and seconds in bar graph format
 
